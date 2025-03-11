@@ -1,6 +1,22 @@
 # AASBD
-Grupo 16
+## Grupo 16
+
+#  Intelligent Systems Analysis - Big Data  
+
+##  About the Project  
+
+This repository contains the technical support and materials developed for the **Intelligent Systems Analysis** course, focusing on the application of **Big Data** techniques. The main objective of this work was to produce the article **"The Evolution of Energy Production and Consumption: Global Trends and Challenges"**, where we analyze the relationship between global energy production and consumption using large datasets to identify patterns and challenges in the energy transition.  
+
+##  Objectives  
+
+- Explore the evolution of energy production and consumption worldwide.  
+- Apply **Big Data** techniques to analyze energy trends.  
+- Identify the environmental and economic impacts of different energy sources.  
+- Propose strategies for a sustainable energy transition.  
 
 
-Country: AFRICA --> Em 3 datasets foram recolhidos dados de áfrica de 3 entidades diferentes e 2 destas entidades foram apenas usados para este país. Desta forma, para compararmos todos os datasets e juntarmos, eliminámos os dados recolhidos pelas entidades que não eram comuns a todos os datasets.
---> Foi também criados um code para este país que não existia em nenhum dos datasets.
+##  Authors  
+
+- **Catarina Gomes**  
+- **Maria Carvalho**  
+
